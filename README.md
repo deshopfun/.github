@@ -1,11 +1,3 @@
-<img width="100%" alt="deshopimage" src="#" />
-
-</br>
-
-[Deshop](https://github.com/deshopfun/deshop)
+# DeshopFun
 
 Decentralized cryptocurrency trading platform.
-
-[Docs](#)
-
-Official documentation, including product usage information and feature descriptions.
